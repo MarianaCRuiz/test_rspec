@@ -1,3 +1,4 @@
-# Tests rspec
-## Matchers
-## Mocks and Stubs
+# Tests with rspec to didactic purpose only
+* Matchers
+* Doubles
+* Mocks and Stubs
